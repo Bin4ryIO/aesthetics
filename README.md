@@ -4,7 +4,7 @@
 
 ｕｓａｇｅ
 ---
-`$ python aesthetics "aesthetics!"`
+`$ python aesthetics.py "aesthetics!"`
 
 ｏｕｔｐｕｔ
 ---
